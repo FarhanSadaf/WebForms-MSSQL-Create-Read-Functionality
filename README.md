@@ -8,3 +8,6 @@
 
 
 ***Please update `connectionString` attributes in `Web.config` file before running in your own computers.***
+
+
+**Next:** Implementing `Update` and `Delete` functionality. [Code link](https://github.com/FarhanSadaf/WebForms-MSSQL-Update-Delete-Functionality)  
